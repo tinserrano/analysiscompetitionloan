@@ -106,6 +106,7 @@ st.sidebar.markdown("# App")
 def author():
     with st.sidebar:
         st.write("Hecho en las :mountain: ")
+        st.write("https://github.com/tinserrano")
 
 author()
 
