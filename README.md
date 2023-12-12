@@ -8,6 +8,3 @@ Pueden entrar y ver si tendrían un buen comportamiento para abonar el préstamo
 
 
 Link en streamlit https://tinserrano-analysiscompetitionloan-app-xy7hf5.streamlit.app/
-
-
-![Uploading Captura de pantalla 2023-12-12 a la(s) 17.30.35.png…]()
